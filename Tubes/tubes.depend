@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1480148424 source:d:\tubes asd\30 oct 16\tubes\main.cpp
+	<iostream>
+	"mobil.h"
+
+1480149526 source:d:\tubes asd\30 oct 16\tubes\mobil.cpp
+	<iostream>
+	"mobil.h"
+
+1480147751 d:\tubes asd\30 oct 16\tubes\mobil.h
+
+1480521553 source:d:\tubes asd\26 nov 16\tubes\main.cpp
+	<iostream>
+	"mobil.h"
+	<windows.h>
+
+1480521522 d:\tubes asd\26 nov 16\tubes\mobil.h
+
+1480521482 source:d:\tubes asd\26 nov 16\tubes\mobil.cpp
+	<iostream>
+	"mobil.h"
+	<windows.h>
+
+1524906448 source:d:\intania effendi-telkom\-telkom-tingkat akhir-\tugas akhir buruan lulus\asd\tubes\main.cpp
+	<iostream>
+	"mobil.h"
+	<windows.h>
+
+1524922949 d:\intania effendi-telkom\-telkom-tingkat akhir-\tugas akhir buruan lulus\asd\tubes\mobil.h
+
+1524910622 source:d:\intania effendi-telkom\-telkom-tingkat akhir-\tugas akhir buruan lulus\asd\tubes\mobil.cpp
+	<iostream>
+	"mobil.h"
+	<windows.h>
+
